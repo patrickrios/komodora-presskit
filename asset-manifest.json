@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/komodora-presskit/static/css/main.de4219ea.css",
-    "main.js": "/komodora-presskit/static/js/main.68117fb1.js",
+    "main.js": "/komodora-presskit/static/js/main.d1b95ce6.js",
     "static/media/screenshot_03-min.png": "/komodora-presskit/static/media/screenshot_03-min.a12ba59e849dd74fd31f.png",
     "static/media/screenshot_04-min.png": "/komodora-presskit/static/media/screenshot_04-min.5901b22d091e350cbdde.png",
     "static/media/screenshot_02-min.png": "/komodora-presskit/static/media/screenshot_02-min.b082c9c4d4d6bb46818c.png",
@@ -11,10 +11,10 @@
     "static/media/komodora_logotype-min.png": "/komodora-presskit/static/media/komodora_logotype-min.0f6a430277ccc44afae4.png",
     "index.html": "/komodora-presskit/index.html",
     "main.de4219ea.css.map": "/komodora-presskit/static/css/main.de4219ea.css.map",
-    "main.68117fb1.js.map": "/komodora-presskit/static/js/main.68117fb1.js.map"
+    "main.d1b95ce6.js.map": "/komodora-presskit/static/js/main.d1b95ce6.js.map"
   },
   "entrypoints": [
     "static/css/main.de4219ea.css",
-    "static/js/main.68117fb1.js"
+    "static/js/main.d1b95ce6.js"
   ]
 }
